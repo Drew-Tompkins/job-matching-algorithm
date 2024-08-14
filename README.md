@@ -1,6 +1,6 @@
 # Job Matching Script Using Combined TF-IDF and GloVe Embeddings
 
-This Python script leverages a combination of TF-IDF vectorization and GloVe embeddings to match job descriptions from one dataset to another. It was designed to improve the accuracy of job matching by combining the strengths of both methods. This approach is particularly useful for NGOs and other organizations looking to align job descriptions across different systems or datasets.
+Originally created for matching job descriptions at Conservation International, this Python script leverages a combination of TF-IDF vectorization and GloVe embeddings to match job descriptions from one dataset to another. It was designed to improve the accuracy of job matching by combining the strengths of both methods. This approach is particularly useful for NGOs and other organizations looking to align job descriptions across different systems or datasets.
 
 ## Features
 - **TF-IDF Vectorization**: Captures the importance of words in the job descriptions relative to the entire dataset.
